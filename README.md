@@ -2,7 +2,7 @@
 
 > A go package for generate random uids by length
 
-[![Build Status](https://secure.travis-ci.org/chrisenytc/gouid.png?branch=master)](https://travis-ci.org/chrisenytc/gouid)
+[![Build Status](https://secure.travis-ci.org/chrisenytc/gouid.png?branch=master)](https://travis-ci.org/chrisenytc/gouid) [![Build Status](https://drone.io/github.com/chrisenytc/gouid/status.png)](https://drone.io/github.com/chrisenytc/gouid/latest)
 
 ## Getting Started
 
