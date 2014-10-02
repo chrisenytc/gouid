@@ -6,22 +6,10 @@
 
 ## Getting Started
 
-1º Clone GoUId repo
+1º Install GoUid
 
 ```bash
-$ git clone https://github.com/chrisenytc/gouid.git
-```
-
-2º Enter in gouid directory
-
-```bash
-$ cd gouid
-```
-
-3º Test your go package
-
-```bash
-$ make test
+$ go get github.com/chrisenytc/gouid
 ```
 
 ## How to Use
